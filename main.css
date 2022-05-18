@@ -2,3 +2,9 @@ body{
     background-color: aliceblue;
     
 }
+h1{
+    color: rgb(0, 140, 255);
+}
+p{
+    font-size: large;
+}
